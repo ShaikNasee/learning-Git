@@ -1,0 +1,1 @@
+* this file shows all the feature of the ecommerce application.
