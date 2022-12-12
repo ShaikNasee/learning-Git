@@ -1,0 +1,1 @@
+* Devoloping the new application for the ecommerce application for the world
